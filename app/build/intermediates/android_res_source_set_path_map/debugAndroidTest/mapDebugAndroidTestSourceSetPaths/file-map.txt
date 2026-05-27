@@ -1,0 +1,6 @@
+ru.toinet.tgws.test.app-androidTest-0 D:\Documents\tgws-mobile\app\build\generated\res\resValues\androidTest\debug
+ru.toinet.tgws.test.app-updated_navigation_xml-1 D:\Documents\tgws-mobile\app\build\generated\updated_navigation_xml\debugAndroidTest
+ru.toinet.tgws.test.app-mergeDebugAndroidTestResources-2 D:\Documents\tgws-mobile\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+ru.toinet.tgws.test.app-mergeDebugAndroidTestResources-3 D:\Documents\tgws-mobile\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+ru.toinet.tgws.test.app-debugAndroidTest-4 D:\Documents\tgws-mobile\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+gradleHome-0 C:\Users\User\.gradle

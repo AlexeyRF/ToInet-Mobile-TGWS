@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_launcher_monochrome
+mipmap ic_launcher
+mipmap ic_launcher_round
+string action_open
+string action_stop
+string app_name
+string config_error
+string dc_mappings
+string hide_logs
+string listen_address
+string logs_label
+string notification_text
+string notification_title
+string port
+string proxy_channel_name
+string show_logs
+string start_proxy
+string stop_proxy
+string tab_logs
+string tab_main
+string tab_settings
